@@ -24,7 +24,7 @@ namespace Shiny_Push_Test
         {
             List<string> pushTokens = new List<string>
         {
-            "fWna9trU7E62spt6UlVWX5:APA91bHuNZmoHy50TWg_4yhK0eDmT884w7p1sVnAfGEqwNns9qJvNYKFQrHRQYa1cOawpwwnNeF8ZMBzVp-WT0XrkEdjyHjSY7ou1t0kFgC-RWf4HS1SCPPxB-Bfe2iTPQI36nQjXUrg",
+            "<Removed>",
         };
             string title = "Test notification title";
             string body = "Test notification body";
